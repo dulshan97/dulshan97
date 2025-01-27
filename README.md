@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate software developer specializing i
 ![Dulshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulshan97&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
-- **LinkedIn:** www.linkedin.com/in/dulshan-lakshitha(#)  
+- **LinkedIn:** www.linkedin.com/in/dulshan-lakshitha
  ---
 
 Thanks for stopping by! 😄 Let's connect and build something amazing together.
